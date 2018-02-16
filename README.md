@@ -1,3 +1,5 @@
+[Esy](https://github.com/esy/esy) package for Merlin OCaml/Reason IDE tooling.
+
 ![merlin completion in vim](https://github.com/ocaml/merlin/wiki/vim_complete.png)
 
 [Merlin](https://ocaml.github.io/merlin/) is an editor service that provides modern IDE features for OCaml.
